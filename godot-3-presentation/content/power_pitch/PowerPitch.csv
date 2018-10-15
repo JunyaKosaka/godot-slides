@@ -1,5 +1,5 @@
 id,en,fr,ja,es,pt_BR,de,it,zh,uk_UA,ko,sk
-A_free_modern_engine_Column_Header_title,A Free modern engine,Un moteur moderne et gratuit,最新のオプンソースゲームエンジン,Un motor libre y moderno,Livre e Moderno,Eine freie moderne Spiele-Engine,Un motore di gioco libero,一个现代化的免费引擎,Вілний та сучасний двигун,자유로운 현대적인 엔진,Moderný herný engine zadarmo
+A_free_modern_engine_Column_Header_title,A Free modern engine,Un moteur moderne et gratuit,最新のオープンソースゲームエンジン,Un motor libre y moderno,Livre e Moderno,Eine freie moderne Spiele-Engine,Un motore di gioco libero,一个现代化的免费引擎,Вілний та сучасний двигун,자유로운 현대적인 엔진,Moderný herný engine zadarmo
 A_free_modern_engine_Column_Body_Row_TextBox_text,"Separate [color=#26BFE3]2d[/color] and [color=#E3266F]3d[/color] renderers
 Complete [color=#F2971A]game editor[/color]
 
@@ -11,8 +11,8 @@ Créez vos projets sur Windows, Mac, ou Linux
 Exportez vos jeux sur PC, mobile, web*","両方[color=#26BFE3]２D[/color]と[color=#E3266F]３D[/color] レンダリングエンジン
 全面的な[color=#F2971A]ゲームエディタ[/color]
 
-プロジェクトをWindowsかMacかLinuxで作られます
-ゲームをコンピューターとかモバイルとかインタネットなどエクスポートできます＊","Renderers [color=#26BFE3]2D[/color] y [color=#E3266F]3D[/color] independientes
+プロジェクトは、WindowsかMacかLinuxで作ることができます。
+ゲームをコンピューターやモバイル、インターネットなどにエクスポートできます＊","Renderers [color=#26BFE3]2D[/color] y [color=#E3266F]3D[/color] independientes
 [color=#F2971A]Editor de juegos[/color] completo
 
 Crea proyectos en Windows, Mac y Linux
@@ -55,7 +55,7 @@ State_of_the_art_3d_engine_Column_Body_Row_TextBox_text,"[color=#E3266F]Physical
 [color=#02E180]Matériau BSDF[/color] de Pixar avec support du Subsurface Scattering, réflexion, réfraction, clearcoat...
 [color=#26BFE3]Illumination globale[/color] en temps réel
 [color=#F2971A]Effets d'image mid et post-rendu[/color]: courbes et exposition automatique, reflets en espace-écran, brouillard, bloom, profondeur de champ...","MSAAをサポートする[color=#E3266F]物理ベースレンダリング[/color]
-[color=#02E180]BSDFマテリアル[/color]：皮下拡散（Subsurface Scattering）とか, 反射率とか, 空間屈折（Refraction）など使用可能です
+[color=#02E180]BSDFマテリアル[/color]：皮下拡散（Subsurface Scattering）や反射率, 空間屈折（Refraction）などに使用可能です
 [color=#26BFE3]間接光・放射[/color]（Global Illumination)
 [color=#F2971A]後処理[/color]：自動露光しSSRし被写界深度などがあります","[color=#E3266F]Renderizado basado en físicas[/color] con soporte para MSAA
 [color=#02E180]Soporta BSDF[/color] con Subsurface Scattering, reflejos, refracción, clearcoat...
@@ -278,7 +278,7 @@ Support du matériel commun: Occulus Rift, Gear VR, Leap Motion...
 
 Support de la réalité augmentée via [color=#26BFE3]Arkit[/color]
 ","[color=#E3266F]OpenVR[/color]
-ふつうのハードウェアをサポートします：Occulus Rift, Gear VR, Leap Motion...
+通常のハードウェアをサポートします：Occulus Rift, Gear VR, Leap Motion...
 
 拡張現実は[color=#26BFE3]ARKit[/color]のおかげで開発できます","Usando [color=#E3266F]OpenVR[/color]
 Soporte para: Occulus Rift, Gear VR, Leap Motion...
@@ -444,9 +444,9 @@ Vous trouverez beaucoup de [color=#02E180]tutoriels officiels[/color] dans le [c
 La [color=#E3266F]référence de code[/color] est intégrée dans l'éditeur
 Vous trouverez de nombreuses [color=#F2971A]démos open source[/color]!","[color=#26BFE3]コミュニティ[/color]は[b]とても[/b]にぎやかです。SNSしIRCしDiscordしでGodotのユーザーと会えます
 [color=#26BFE3]質問と答え[/color]のウェブサイトもあります
-[color=#02E180]便覧[/color]に公式の[color=#02E180]学習用[/color]が多いです
+[color=#02E180]リファレンス[/color]に公式の[color=#02E180]学習用[/color]が多いです
 開発環境に[color=#E3266F]コードの便覧[/color]が含まれます
-[color=#F2971A]オプンソースのデモ[/color]も多いです","La [color=#26BFE3]comunidad[/color] es [b]muy[/b] activa. Redes sociales, foro, IRC, Discord…
+[color=#F2971A]オープンソースのデモ[/color]も多いです","La [color=#26BFE3]comunidad[/color] es [b]muy[/b] activa. Redes sociales, foro, IRC, Discord…
 Hay una página de [color=#26BFE3]Preguntas/Respuestas[/color]
 Encontrarás muchos [color=#02E180]tutorialess[/color] oficiales en el [color=#02E180]manual online[/color]
 Hay [color=#E3266F]documentación[/color] dentro del propio editor
@@ -483,7 +483,7 @@ K dispozícii je webstránka [color=#26BFE3]otázok a odpovedí[/color]
 V [color=#02E180]online manuáli[/color] nájdete viacero oficiálnych [color=#02E180]tutoriálov[/color]
 Herný editor obsahuje [color=#E3266F]zabudované referencie kódu[/color]
 Využite [color=#F2971A]open source demá[/color]"
-How_to_get_started_Footer_text,Most of the resources are in English though... a good way to practice?,"L'éditeur est déjà traduit en français, ainsi qu'une part croissante des tutoriels officiels",大体情報は英語ですが良い練習になれるでしょうね？,),La mayoría de los recursos están en inglés… ¿hora de aprender?,Porém boa parte das coisas estão em inglês...é até uma boa chance para praticar!,Ma molte risorse sono in Inglese... è una buona scusa per fare pratica?,Viele der Quellen sind in Englisch... eine gute Möglichkeit zu üben!,"Проте більшість ресурсів на англійській...тож гарна нагода попркатикуватися, чи не так?",비록 대부분의 자원은 영어입니다... 하지만 연습하기에 좋은 방식이지 않을까요?,Väčšina zdrojov je však v angličtine... dobrý spôsob na zdokonalenie sa?
+How_to_get_started_Footer_text,Most of the resources are in English though... a good way to practice?,"L'éditeur est déjà traduit en français, ainsi qu'une part croissante des tutoriels officiels",大体情報は英語ですが、良い練習になるでしょうね？,),La mayoría de los recursos están en inglés… ¿hora de aprender?,Porém boa parte das coisas estão em inglês...é até uma boa chance para praticar!,Ma molte risorse sono in Inglese... è una buona scusa per fare pratica?,Viele der Quellen sind in Englisch... eine gute Möglichkeit zu üben!,"Проте більшість ресурсів на англійській...тож гарна нагода попркатикуватися, чи не так?",비록 대부분의 자원은 영어입니다... 하지만 연습하기에 좋은 방식이지 않을까요?,Väčšina zdrojov je však v angličtine... dobrý spôsob na zdokonalenie sa?
 Learn_from_simple_free_demos_Column_Header2_title,Learn from simple Free demos,Démos libres,読みやすいデモで勉強できます,Aprende de demos simples y libres,Aprenda através de demos simples e livres,"Einfache, freie Demos zum lernen",Impara dalle demo libere,从简单免费的示例开始入手学习,Навчайтеся за допомги простих та безкоштовних демопроектів,간단한 무료 데모를 통해 배워보기,Na učenie využite free demá
 Learn_from_simple_free_demos_Column_Footer2_text,Both official and 3rd-party,"Il y en a beaucoup, officielles ou mises à disposition par la communauté",公式プロジェクトもコミュニティのもあります,Tanto oficiales como de terceros,Tanto oficiais quanto de terceiros,Sowohl Offizielle als auch Dirttanbieter,Sia ufficiali che 3rd party,官方的和第三方的都有,"Як офііцних, так і від третіх сторін",공식 프로젝트와 커뮤니티의 프로젝트가 있습니다,Či už oficiálne alebo od tretích strán
 Thank_you_Column_Header2_title,Thank you!,Merci beaucoup!,ありがとうございました！,¡Muchas gracias!,Muito obrigado!,Vielen Dank!,Grazie!,非常感谢!,Щіро дякую!,감사합니다!,Ďakujem za pozornosť!
@@ -514,7 +514,7 @@ Credits:
 - [url=https://play.google.com/store/apps/details?id=fr.guaranapps.games.get_teddy]Get Teddy[/url] by GuaranApps
 - [url=http://www.rpginabox.com/]RPG in a Box[/url] by Justin
 
-この発表はオプンソースのGodotのプロジェクトです：[url=https://github.com/GDquest/godot-slides]GitHub[/url]でダウンロードできます. 色んな言語で利用可能です。 ","SNS:
+この発表はオープンソースのGodotのプロジェクトです：[url=https://github.com/GDquest/godot-slides]GitHub[/url]でダウンロードできます. 色々な言語で利用可能です。 ","SNS:
 [color=#26BFE3]@NathanGDquest[/color]
 [color=#F2971A]youtube.com/c/gdquest[/color]
 
